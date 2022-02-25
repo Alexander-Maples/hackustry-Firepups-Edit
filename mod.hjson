@@ -5,5 +5,5 @@
     description: "Hackustry Textures v2",
     version: 2,
     minGameVersion: 126,
-    hidden: false
+    hidden: true
 }
