@@ -2,8 +2,8 @@
     name: "hackustry-textures",
     displayName: "Hackustry Textures",
     author: "Firepup6500",
-    description: "Hackustry Textures v1",
-    version: 1,
+    description: "Hackustry Textures v2",
+    version: 2,
     minGameVersion: 126,
-    hidden: true
+    hidden: false
 }
