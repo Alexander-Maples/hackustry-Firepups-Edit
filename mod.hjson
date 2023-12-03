@@ -4,6 +4,6 @@
     author: "Firepup6500",
     description: "Hackustry Textures v2",
     version: 2,
-    minGameVersion: 126,
+    minGameVersion: 136,
     hidden: true
 }
